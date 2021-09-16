@@ -1,2 +1,3 @@
-# hacktoberfest-idea
-A place for everyone in the Self-Taught Software Developers group to add thoughts and ideas for Hacktober Fest 2021
+# STSD Hacktober Fest 2021 Ideas
+
+Hey everyone! This is a place to add any thoughts and ideas for the upcoming Hacktober Fest.
