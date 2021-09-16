@@ -8,5 +8,5 @@ If you have any questions, concerns or suggestions, please don't hesitate to rea
 
 Thank you for contributing and we look forward to hacking this October!
 
-Jim Merk
+Jim Merk\
 Co-Organizer
